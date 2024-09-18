@@ -51,3 +51,6 @@ yarn-error.log*
 
 # Optional: Uncomment if you're using TypeScript
 # *.tsbuildinfo
+
+# Ensure src folder is not ignored
+!src/
